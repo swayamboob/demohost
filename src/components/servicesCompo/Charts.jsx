@@ -27,7 +27,7 @@ const Charts = () => {
                 setListOfCoins(response.data.coins);
             }
         )
-    }, []);
+    }, [searchWord]);
 
     const filteredCoins = listOfCoins.filter((coin) => {
         return coin.name.toLowerCase().includes(searchWord.toLowerCase());
