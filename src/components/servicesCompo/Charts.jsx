@@ -57,9 +57,7 @@ const Charts = () => {
           </div> */}
           <div className='justify-item-center w-full flex flex-wrap  overflow-y-scroll centered  '>
           {/* <iframe class=" 2xl:w-full h-full pt-32 pl-4 pr-0  " src="https://www.coindesk.com/embedded-chart/FrhbhH6Wchjcb" width="100%" frameborder="0"></iframe> */}
-            {/* <div class="nomics-ticker-widget" data-name="Ethereum" data-base="ETH" data-quote="USD"></div> */}
-            {/* <Demo/> */}
-            <iframe  class="w-full h-[500px]  my-14 rounded-3xl" src="https://techika-cryptocurrency-chart.netlify.app/"  title="description"></iframe>
+            <iframe  class="w-full h-[500px]  my-14 rounded-3xl" src="https://chart-flax.vercel.app/"  title="description"></iframe>
           </div>
       </div>
         </div>
