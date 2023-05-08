@@ -11,7 +11,7 @@ const News = () => {
 
             </div>
             <div >
-                <rssapp-carousel id="tzL2rTk1vXMgpiTq"></rssapp-carousel>
+            <rssapp-carousel id="tm0THaCpGdgzD3cs"></rssapp-carousel>
             </div>
             <br />
             <div >
